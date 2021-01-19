@@ -1,0 +1,8 @@
+Informatics: 100(lec) 50(pr) 20(lab)
+Physics: 30(lec) — 10(lab)
+Sports: — 30(pr) —
+Mathematics: 20(lec) 5(pr) 8(lab)
+Biology: - 7(pr) 11(lab)
+Chemistry: - - 22(lab)
+History: - - -
+English: 200(lec) 150(pr)
