@@ -1,0 +1,7 @@
+line1 is the first one
+line_2
+line 3
+
+line4 is the last line in the file
+line 5---
+end
